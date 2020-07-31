@@ -1,3 +1,0 @@
-# project_0001-lol
-learning....
-you can help me or give a feedback ?
