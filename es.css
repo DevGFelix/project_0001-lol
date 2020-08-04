@@ -54,8 +54,9 @@ h3 {
 #cab {
 	border-bottom: 1px #ff0046 solid;
 	height:150px;
-	padding-bottom: 10px;
 	margin-bottom: 25px;
+	padding: 40px 0 0 290px;
+	border-radius: 90px;
 }
 #cab h1 {
 	font-family: arial, sans-serif;
